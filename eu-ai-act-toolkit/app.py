@@ -1,7 +1,7 @@
 """
 EU AI Act Toolkit - Complete Enhanced Streamlit Application
 Professional compliance assessment with advanced features
-Author: Lm - AI Governance Expert, Paris
+Author: Lm - AI Governance , Paris
 Version: 1.0.0
 """
 
